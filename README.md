@@ -1,7 +1,9 @@
 # Smart-Home
-## Home Appliance Control Mobile App - UI/UX Design
+### Home Appliance Control Mobile App - UI/UX Design
 # Project Overview
 Platform: Mobile App
+
+
 Tool: Figma
 # Description:
 This project focuses on designing a user-friendly mobile application to control various home appliances, including Fan, Air Conditioner, TV, Lights & Bulbs. The app allows users to perform the following actions from a single screen:

@@ -40,3 +40,6 @@ You can also play the prototype by clicking the "Play" button in the top-right c
 ### 4. Making Edits:
 
 To make edits, duplicate the original file or create a new version. Use Figma’s version history to track changes.
+
+
+### Link: https://www.figma.com/proto/IBivIxAMOhDL8B3N1dqdh1/Untitled?node-id=0-1&t=NAAeEaNo8dhldu1J-1

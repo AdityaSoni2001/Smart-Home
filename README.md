@@ -19,24 +19,24 @@ The goal is to create a clean, intuitive, and appealing UI/UX that enhances the 
 ## How to Use the Figma File
 
 
-## 1. Open the Figma File:
+### 1. Open the Figma File:
 
 You can just navigate to the project link provided (if shared via Figma).
 Please ensure you have the necessary permissions to view or edit the file.
 
 
-## 2. Navigating the Design:
+### 2. Navigating the Design:
 
 The main screens are organized in the first few frames. Use the arrow keys or click through to view each screen.
 The "Components" section contains reusable design elements.
 
 
-## 3. Viewing Prototypes:
+### 3. Viewing Prototypes:
 
 Click on the "Prototype" tab in Figma to interact with the design and test the flow between screens.
 You can also play the prototype by clicking the "Play" button in the top-right corner.
 
 
-## 4. Making Edits:
+### 4. Making Edits:
 
 To make edits, duplicate the original file or create a new version. Use Figma’s version history to track changes.
